@@ -1,0 +1,42 @@
+header{
+    padding: 50px;
+}
+
+.bank-title{
+    text-align: center;
+}
+
+.login-section{
+    margin-top: 25px;
+    box-shadow: 1px 2px 4px #161616b8;
+    padding: 25px;
+}
+
+#transection-area{
+    padding: 25px 0px;
+    display: none;
+}
+
+.deposite{
+    background: mediumpurple;
+    padding: 25px;
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px #161616;
+}
+
+.withdraw{
+    background: lightsalmon;
+    padding: 25px;
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px #161616;
+}
+
+.balance{
+    background: orange;
+    padding: 25px;
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px #161616;
+}
